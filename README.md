@@ -6,3 +6,6 @@ Type your city on the search bar to know your city's weather conditions, humidit
 
 This project is basically written in some of the BEST front end languages.
 
+https://srihari1207.github.io/Weather_Application/   == LIVE DEMO
+
+
